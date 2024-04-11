@@ -5,7 +5,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhushankha-de-silva-5bb58129a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@madhushankhades1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22256607) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MadhushankhaDeS) 
 <p align="left">
 <a href="https://twitter.com/madhushankhades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhushankhades" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhushankha-de-silva-5bb58129a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhushankha-de-silva-5bb58129a/" height="30" width="40" /></a>
