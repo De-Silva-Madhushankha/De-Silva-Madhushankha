@@ -1,7 +1,7 @@
 # Hi, I'm Madhushankha De Silva
 - A STEM Enthusiast<br><br>- 📚 Studying [Computer Science and Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa Sri Lanka](https://uom.lk/)<br><br>- 🌱 I’m currently learning **C++ and Algorithm Design Techniques**<br><br>- 📫 How to reach me **madhushankhades1@gmail.com**
 
-[![](https://visitcount.itsvg.in/api?id=De-Silva-Madhushankha&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=de-silva-madhushankha&label=Profile%20views&color=0e75b6&style=flat" alt="de-silva-madhushankha" /> </p>
 
 
 ## 🌐 Socials:
@@ -25,5 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Silva-Madhushankha&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 
 
