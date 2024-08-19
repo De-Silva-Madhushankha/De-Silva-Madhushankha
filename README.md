@@ -1,4 +1,8 @@
-# Hi, I'm Madhushankha De Silva
+<p align="center">
+   <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=40&duration=3000&pause=1000&color=0DF712&center=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhushankha"/>
+</a>
+</p>
+
 - A STEM Enthusiast<br><br>- 📚 Studying [Computer Science and Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa Sri Lanka](https://uom.lk/)<br><br>- 🌱 I’m currently learning **Bash Scripting and Relational Databases**<br><br>- 📫 How to reach me **madhushankhades1@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-silva-madhushankha&label=Profile%20views&color=0e75b6&style=flat" alt="de-silva-madhushankha" /> </p>
