@@ -3,7 +3,7 @@
 </a>
 </p>
 
-<img src="https://github.com/De-Silva-Madhushankha/De-Silva-Madhushankha/blob/main/Madhushankha%20De%20Silva.png" alt="banner that says Madhushankha De Silva - Developer Stem Enthusiast Contact Info">
+
 
 
 <br><br>- 📚 Studying [Computer Science and Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa Sri Lanka](https://uom.lk/)<br><br>- 🌱 I’m currently learning **Bash Scripting and Database Systems**<br><br>- 📫 How to reach me **madhushankhades1@gmail.com**  <br><br>- 🦾 Let's talk about Science and Technology 
