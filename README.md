@@ -15,7 +15,7 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<br><br>- 📚 Studying [Computer Science and Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa Sri Lanka](https://uom.lk/)<br><br>- 🌱 I’m currently learning  **Langraph and Deep Neural Networks** <br><br>- 📫 How to reach me **madhushankhades1@gmail.com**  <br><br>- 🦾 Let's talk about Science and Technology 
+<br><br>- 📚 Studying [Computer Science and Engineering](https://cse.mrt.ac.lk/) at the [University of Moratuwa Sri Lanka](https://uom.lk/)<br><br>- 🌱 I’m currently learning  **Agentic Orchestrations and SLMs** <br><br>- 📫 How to reach me **madhushankhades1@gmail.com**  <br><br>- 🦾 Let's talk about Science and Technology 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-silva-madhushankha&label=Profile%20views&color=0e75b6&style=flat" alt="de-silva-madhushankha" /> </p>
 
